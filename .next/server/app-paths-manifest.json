@@ -1,0 +1,19 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/page": "app/page.js",
+  "/verify/[code]/page": "app/verify/[code]/page.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/reference/[token]/page": "app/reference/[token]/page.js",
+  "/login/page": "app/login/page.js",
+  "/verify/page": "app/verify/page.js",
+  "/admin/activity/page": "app/admin/activity/page.js",
+  "/admin/artisans/page": "app/admin/artisans/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/artisans/[id]/page": "app/admin/artisans/[id]/page.js",
+  "/dashboard/card/page": "app/dashboard/card/page.js",
+  "/dashboard/evidence/page": "app/dashboard/evidence/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/profile/page": "app/dashboard/profile/page.js",
+  "/dashboard/references/page": "app/dashboard/references/page.js"
+}
